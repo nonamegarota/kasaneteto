@@ -1,0 +1,79 @@
+body {
+    font-family: 'Fredoka'; font-size: 22px;
+    background-color: FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ec1e5f;
+}
+
+div.container {
+   max-width: 500px;
+   margin: auto;
+   padding: 100px;}
+
+h1 {
+   color: #FFFFFF;
+   font-size: 69px;
+}
+
+p {
+   color: #FFFFFF;
+}
+
+footer {
+    background-color: ec1e5f;
+}
+
+div.cont {
+   max-width: 800px;
+   margin: 0;
+   padding: 30px;}
+
+.center {
+  text-align: center;
+  padding: 20;
+}
+
+p.other {
+   color: #000000;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  margin: 20px;
+  padding: 5px;
+}
+
+.column2 {
+  flex: 33.33%;
+  margin: auto;
+  padding: 2px;
+  text-align: center;
+}
+
+div.container2 {
+   max-width: 500px;
+   margin-inline: 600px;
+   padding: 100px;}
+
+div.container3 {
+   max-width: 100px;
+   margin-inline: 600px;
+   padding: 0px;}
+
+div.container4 {
+   max-width: 100px;
+   margin-inline: 200px;
+   padding: 0px;}
+
+   div.container5 {
+   max-width: 100px;
+   margin-inline: 770px;
+   padding: 10px;}
