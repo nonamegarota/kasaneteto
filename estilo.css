@@ -73,7 +73,16 @@ div.container4 {
    margin-inline: 200px;
    padding: 0px;}
 
-   div.container5 {
+div.container5 {
    max-width: 100px;
    margin-inline: 770px;
    padding: 10px;}
+
+
+.container4 img {
+   border-radius: 30px;
+}
+
+.container3 img {
+   border-radius: 30px;
+}
